@@ -35,7 +35,7 @@ footer {
     padding: 5% 10% 0 10%;
 }
 
-.grid-container {
+.flex-container {
     display: flex;
 }
 
