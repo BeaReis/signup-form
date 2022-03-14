@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- https://beareis.github.io/singup-form/
+- https://beareis.github.io/signup-form/
 
 
 ### Built with
